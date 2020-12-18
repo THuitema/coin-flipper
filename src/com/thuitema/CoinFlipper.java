@@ -6,11 +6,11 @@ public class CoinFlipper {
 
     public static void main(String[] args) {
         int totalHeads = 0;
-	    int totalTails = 0;
-	    int headsTemp = 0;
-	    int tailsTemp = 0;
-	    int headsRecord = 0;
-	    int tailsRecord = 0;
+	int totalTails = 0;
+	int headsTemp = 0;
+	int tailsTemp = 0;
+	int headsRecord = 0;
+	int tailsRecord = 0;
 
 
         Scanner scanner = new Scanner(System.in);
